@@ -1,13 +1,12 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Kuinka paljon EU-kansalaiset luottavat hallituksiinsa?",
+  "subtitle": "Keskimäärin noin 36 % EU:n kansalaisista luottaa kansalliseen hallitukseensa. Tämä luottamuksen taso on samanlainen kuin 20 vuotta sitten.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Tiedot on kerätty kasvokkain tehtyjen haastattelujen avulla maaliskuun 2025 ja huhtikuun 2025 välisenä aikana. Julkaistu toukokuussa 2025.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Standard Eurobarometri 103 (kevät 2025)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
+  "customUnitLabel": "kansalaisista",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
