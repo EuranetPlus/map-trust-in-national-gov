@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm jafdaw iċ-ċittadini tal-UE lill-gvernijiet tagħhom?",
+  "subtitle": "Bħala medja, madwar 36% tan-nies fl-UE jafdaw lill-gvern nazzjonali tagħhom. Dan il-livell ta’ fiduċja huwa simili għal dak irreġistrat 20 sena ilu.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Id-dejta nġabret permezz ta' intervisti wiċċ imb'wiċċ minn Marzu 2025 sa April 2025. Ippubblikata f'Mejju 2025.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "Ewrobarometru Standard 103 (Rebbiegħa 2025)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "taċ-ċittadini",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
