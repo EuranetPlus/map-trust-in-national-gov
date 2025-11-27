@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik lielā mērā ES pilsoņi uzticas savām valdībām?",
+  "subtitle": "Vidēji aptuveni 36 % ES iedzīvotāju uzticas savas valsts valdībai. Šis uzticības līmenis ir līdzīgs tam, kas tika reģistrēts pirms 20 gadiem.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Dati ir apkopoti klātienes intervijās no 2025. gada marta līdz 2025. gada aprīlim. Publicēts 2025. gada maijā.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Standarta Eirobarometra aptauja Nr. 103 (2025. gada pavasaris)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "pilsoņu",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
