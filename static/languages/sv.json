@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur mycket litar EU-medborgarna på sina regeringar?",
+  "subtitle": "I genomsnitt litar cirka 36 % av EU-invånarna på sin nationella regering. Denna nivå av förtroende är liknande den som uppmättes för 20 år sedan.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Data har samlats in genom personliga intervjuer från mars 2025 till april 2025. Publicerad i maj 2025.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Standard Eurobarometer 103 (våren 2025)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "av medborgare",
   "tooltipExtraInfoLabel": "Klicka här"
 }
