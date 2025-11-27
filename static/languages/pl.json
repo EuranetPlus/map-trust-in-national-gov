@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "W jakim stopniu obywatele UE ufają swoim rządom?",
+  "subtitle": "Średnio około 36% mieszkańców UE ufa rządowi swojego kraju. Ten poziom zaufania jest zbliżony do tego sprzed 20 lat.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Dane zbierano za pomocą wywiadów bezpośrednich przeprowadzonych w okresie od marca do kwietnia 2025 r. Opublikowano w maju 2025 r.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Standardowy Eurobarometr 103 (wiosna 2025 r.)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "obywateli",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
