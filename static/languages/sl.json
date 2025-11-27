@@ -1,13 +1,12 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Koliko državljani EU zaupajo svojim vladam?",
+  "subtitle": "V povprečju približno 36 % ljudi v EU zaupa svoji nacionalni vladi. Ta raven zaupanja je podobna tisti, ki je bila zabeležena pred 20 leti.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Podatki so bili zbrani z osebnimi intervjuji od marca 2025 do aprila 2025. Objavljeno maja 2025.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Standardni Eurobarometer 103 (pomlad 2025)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "legend1": "Ni na voljo podatkov",
+  "customUnitLabel": "državljanov",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
