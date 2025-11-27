@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé mhéad muiníne atá ag saoránaigh an AE as a rialtais?",
+  "subtitle": "Ar an meán, tá muinín ag thart ar 36% de mhuintir an AE as a rialtas náisiúnta. Tá an leibhéal muiníne seo cosúil leis an leibhéal muiníne a taifeadadh 20 bliain ó shin.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Bailíodh sonraí trí agallaimh duine le duine ó Mhárta 2025 go hAibreán 2025. Foilsithe i mBealtaine 2025.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eorabharaiméadar Caighdeánach 103 (Earrach 2025)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "na saoránach",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
