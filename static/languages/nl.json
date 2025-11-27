@@ -1,13 +1,12 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoeveel vertrouwen hebben EU-burgers in hun regeringen?",
+  "subtitle": "Gemiddeld vertrouwt ongeveer 36% van de EU-burgers hun nationale overheid. Dit vertrouwen is vergelijkbaar met dat van 20 jaar geleden.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "De gegevens zijn verzameld door middel van persoonlijke interviews van maart 2025 tot en met april 2025. Gepubliceerd in mei 2025.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Standaard Eurobarometer 103 (lente 2025)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
+  "customUnitLabel": "van burgers",
   "tooltipExtraInfoLabel": "Klik hier"
 }
