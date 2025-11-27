@@ -1,13 +1,12 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kui palju usaldavad ELi kodanikud oma valitsusi?",
+  "subtitle": "Keskmiselt usaldab umbes 36% ELi elanikest oma riigi valitsust. See usalduse tase on sarnane 20 aasta taguse ajaga.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Andmeid on kogutud näost näkku intervjuude teel märtsist 2025 kuni aprillini 2025. Avaldatud mais 2025.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Standardne Eurobaromeeter 103 (kevad 2025)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "customUnitLabel": "kodanikest",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
