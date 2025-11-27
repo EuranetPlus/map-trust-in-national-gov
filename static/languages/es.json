@@ -1,13 +1,12 @@
 {
-  "title": "¿Qué países de la UE ofrecen las mejores perspectivas de empleo?",
-  "subtitle": "Se estima que el crecimiento futuro del empleo en estos países en el período 2022-2035 será del 5,6%.",
+  "title": "¿Cuánto confían los ciudadanos de la UE en sus gobiernos?",
+  "subtitle": "De media, alrededor del 36 % de los ciudadanos de la UE confían en su gobierno nacional. Este nivel de confianza es similar al registrado hace 20 años.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Los datos se recopilaron mediante entrevistas personales entre marzo y abril de 2025. Se publicaron en mayo de 2025.",
   "textSourceDescription": "Fuente",
-  "textSource": "sdcshdc",
+  "textSource": "Eurobarómetro estándar 103 (primavera de 2025)",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_DE": "Alemania acelera el despliegue de energía renovable y aspira a que el 80 % de su energía sea limpia en 2030",
-  "extraInfo_FR": "El Parlamento francés aprueba un importante proyecto de ley de reforma migratoria en medio de protestas a nivel nacional",
   "legend1": "No hay datos disponibles",
+  "customUnitLabel": "de ciudadanos",
   "tooltipExtraInfoLabel": "haga clic aquí"
 }
