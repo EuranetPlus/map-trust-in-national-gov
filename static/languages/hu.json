@@ -1,13 +1,12 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Mennyire bíznak az EU polgárai a kormányaikban?",
+  "subtitle": "Az EU-ban átlagosan az emberek 36%-a bízik a nemzeti kormányában. Ez a bizalomszint hasonló a 20 évvel ezelőttihez.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "Az adatokat személyes interjúk útján gyűjtötték 2025 márciusa és 2025 áprilisa között. 2025 májusában tették közzé.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "Standard Eurobarométer 103 (2025 tavasz)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "legend1": "Nincsenek elérhető adatok",
+  "customUnitLabel": "a polgárok",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
