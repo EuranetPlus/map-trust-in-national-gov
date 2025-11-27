@@ -1,13 +1,12 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kiek ES piliečiai pasitiki savo vyriausybėmis?",
+  "subtitle": "Vidutiniškai apie 36 % ES gyventojų pasitiki savo nacionaline vyriausybe. Šis pasitikėjimo lygis yra panašus į tą, kuris buvo užfiksuotas prieš 20 metų.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Duomenys buvo surinkti tiesioginių interviu metu nuo 2025 m. kovo iki 2025 m. balandžio mėn. Paskelbta 2025 m. gegužės mėn.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Standartinė „Eurobarometro“ apklausa Nr. 103 (2025 m. pavasaris)",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "customUnitLabel": "piliečių",
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
